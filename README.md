@@ -3,13 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <style>
-        div {
-            width: 8%;
-            display: inline-block;
-        }
-    </style>
+
 </head>
 <img      src="picture.jfif" height="200px" width="200px">
  <body background="image.jfif" style="background-repeat: no-repeat; background-size: cover; background-color: burlywood;">
